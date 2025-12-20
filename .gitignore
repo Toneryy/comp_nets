@@ -1,0 +1,12 @@
+# Docker volumes
+pg-master/
+pg-slave/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
